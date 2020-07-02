@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/problema-da-mochila/static/css/main.941b720e.chunk.css",
+    "main.js": "/problema-da-mochila/static/js/main.481d5589.chunk.js",
+    "main.js.map": "/problema-da-mochila/static/js/main.481d5589.chunk.js.map",
+    "runtime-main.js": "/problema-da-mochila/static/js/runtime-main.ad1ce5b8.js",
+    "runtime-main.js.map": "/problema-da-mochila/static/js/runtime-main.ad1ce5b8.js.map",
+    "static/js/2.e67a320e.chunk.js": "/problema-da-mochila/static/js/2.e67a320e.chunk.js",
+    "static/js/2.e67a320e.chunk.js.map": "/problema-da-mochila/static/js/2.e67a320e.chunk.js.map",
+    "index.html": "/problema-da-mochila/index.html",
+    "precache-manifest.120c686e4e47dcedbe0ffdde8dce61f6.js": "/problema-da-mochila/precache-manifest.120c686e4e47dcedbe0ffdde8dce61f6.js",
+    "service-worker.js": "/problema-da-mochila/service-worker.js",
+    "static/css/main.941b720e.chunk.css.map": "/problema-da-mochila/static/css/main.941b720e.chunk.css.map",
+    "static/js/2.e67a320e.chunk.js.LICENSE.txt": "/problema-da-mochila/static/js/2.e67a320e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad1ce5b8.js",
+    "static/js/2.e67a320e.chunk.js",
+    "static/css/main.941b720e.chunk.css",
+    "static/js/main.481d5589.chunk.js"
+  ]
+}
