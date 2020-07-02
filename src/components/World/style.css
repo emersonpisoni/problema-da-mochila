@@ -1,0 +1,117 @@
+.world {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ebebeb;
+  font-family: monospace;
+  padding: 30px;
+}
+
+.world-container {
+  display: flex;
+}
+
+.world-container > div {
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 6px 1px #aeaeae;
+}
+
+.information {
+  display: flex;
+  flex-direction: column;
+}
+
+.populacao {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.populacao-title {
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.individuo {
+  background-color: white;
+  box-shadow: 5px 4px 11px 0px #000000;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+}
+
+.individuo-header {
+  margin-left: 31px;
+  display: flex;
+  justify-content: space-around;
+  font-weight: bold;
+}
+
+.individuo-title {
+  text-align: end;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  padding: 3px 10px;
+}
+
+.item {
+  background-color: #121212;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3px 10px;
+  width: 10px;
+  border: 1px solid #353535;
+}
+
+.fitness {
+  background-color: gray;
+}
+
+.adepto {
+  background-color: green;
+}
+
+.nao-adepto {
+  background-color: red;
+}
+
+.form {
+  display: flex;
+  padding: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.form > div {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+}
+
+button {
+  border: none;
+  background-color: aquamarine;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 2px 5px 0px #9a9a9a;
+  cursor: pointer;
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 14px;
+  font-family: monospace;
+}
